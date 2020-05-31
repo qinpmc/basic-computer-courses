@@ -1,0 +1,8 @@
+.idea
+node_modules
+dist/*.gz
+dist/*.map
+Build
+lib
+预研
+预研/个人
